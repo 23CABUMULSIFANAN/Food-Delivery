@@ -1,0 +1,29 @@
+.banner{
+    height: fit-content;
+    background: linear-gradient(135deg, #000000, #8B0000, #FF4500);
+    margin-top: 100px;
+}
+.del-image{
+    width: 350px;
+}
+.del-text{
+    
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.del-btn{
+    border: none;
+     background-color: #670302;
+    color: white;
+
+    padding: 15px;
+    border-radius: 50px;
+    margin-top: 20px;
+    font-weight: bolder;
+}
+.del-btn:hover{
+    background-color: white;
+    color: black;
+    
+}

@@ -1,0 +1,86 @@
+.checkout-heads{
+margin: 20px ;
+margin-left: 80px;
+padding-bottom: 5px;
+border-bottom: 4px solid  #670302;
+border-radius: 5px;
+width: fit-content;
+
+}
+.cus-detail{
+    text-align: center;
+    color: #670302;
+    
+
+    
+}
+
+.user-form,.user-form1{
+    margin-top: 30px;
+    box-shadow: 5px 10px 18px #cdcdcd;
+border-radius: 20px;
+       padding: 30px;
+       
+       margin-bottom: 30px;
+    
+}
+
+.user-form input ,.user-form1 input{
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: rgba(237, 237, 237, 0);
+    width: 250px;
+    margin-bottom: 30px;
+    font-size: 17px;
+}
+.user-form1 ul{
+    list-style: none;
+}
+.user-form1 ul li{
+    margin-top: 10px;
+}
+
+.del{
+   width: 100px;
+   padding: 10px;
+   border-radius: 5px;
+   border: none;
+   background-color: #670302;
+   color: white;
+}
+.del:hover{
+    color: black;
+    background-color: grey;
+}
+.user-form2{
+    margin-top: 30px;
+    box-shadow: 5px 10px 18px #cdcdcd;
+border-radius: 20px;
+       padding: 30px;
+       
+       margin-bottom: 30px;
+}
+.user-form2 input{
+     border: none;
+    border-bottom: 1px solid black;
+    background-color: rgba(237, 237, 237, 0);
+  
+    margin-top: 30px;
+    font-size: 17px;
+
+}
+
+.card-detail{
+    display: flex;
+    gap: 10px;
+}
+.cv{
+    width: 70px;
+}
+.totals-div{
+    padding: 50px;
+   margin-top: 80px;
+   border-radius: 20px;
+      box-shadow: 5px 10px 18px #cdcdcd;
+    
+}

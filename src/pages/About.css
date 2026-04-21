@@ -1,0 +1,27 @@
+.about-head{
+    color: #670302;
+}
+.about-p{
+    color: grey;
+    margin-top: 20px;
+    line-height: 30px;
+}
+.about-btn{
+    border: none;
+    background-color: #670302;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    font-weight: bold;
+    margin: 20px 0px;
+}
+.about-btn:hover{
+    color: black;
+    background-color: white;
+}
+@media  (max-width:500px){
+    img{
+        width: 300px;
+
+    }
+}

@@ -1,0 +1,14 @@
+.new input{
+    margin-bottom: 30px;
+}
+.new-btn{
+    margin-bottom: 20px;
+    margin-right:20px ;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold ;
+    width: 170px;
+    border: none;
+    background-color: #670302;
+    color: white;
+}
