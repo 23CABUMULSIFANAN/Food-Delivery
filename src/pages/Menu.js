@@ -49,7 +49,7 @@ const displayCategories = category ? [category] : categoryList;
           <div className='row'>
             <div className='col-12 col-md-6 col-lg-3'>
               
-          <aside>
+          <aside className='aside1'>
        <h2 className='select-h1'>Select Menu</h2>
     
       <div className='sel-div'>

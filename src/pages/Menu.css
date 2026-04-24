@@ -7,6 +7,12 @@
     margin-top: 10px;
   
 }
+.aside1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
 .select-h1{
     margin-top: 30px;
     font-weight: 700;
