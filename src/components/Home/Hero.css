@@ -9,6 +9,7 @@ background: linear-gradient(135deg, #000000, #8B0000, #FF4500);
 }
 .bur-img{
     width: 480px;
+    background-position: center;
 }
 
 .hero-text1{

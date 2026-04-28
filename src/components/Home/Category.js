@@ -7,11 +7,11 @@ export default function Category() {
   return (
     <div className='menu container'>
         <h1 className='menu-h1'>Menu Categories</h1>
-       <div className='row'>
+       <div className='row ' >
          {
           menu_list.map((item)=>{
             return (
-             <div key={item.id} className='col-12 d-flex justify-content-sm-center col-md-6 col-lg-4'>
+             <div key={item.id} className='col-12 col-md-6 col-lg-4 menu-con'>
                <div  className='cat-div' onClick={()=>navigate(`/menu/${item.slug}`)}>
                 <img src={item.menu_img} className='menu-image' alt='items'></img>
                 <h5 className='menu-names'>{item.menu_name}</h5>

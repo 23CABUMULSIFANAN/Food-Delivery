@@ -5,6 +5,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    
    
 }
 .menu-h1{
@@ -15,8 +16,14 @@
      border-bottom: 4px solid rgb(210, 205, 205);
      border-radius: 3px;
 }
+.menu-con{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
 .menu-image{
-    width: 300px;
+    width: 250px;
     height: 200px;
     object-fit: cover;
     border-radius: 20px;
